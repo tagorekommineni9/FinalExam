@@ -10,7 +10,7 @@
             android:title="Second Fragment"/>
 
         <item android:id="@+id/third"
-            android:title="Third Fragment"/>
+            android:title="Issues in GIT repositories"/>
 
         <item android:id="@+id/fourth"
             android:title="Fourth Fragment"/>
