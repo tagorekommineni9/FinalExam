@@ -16,7 +16,7 @@
             android:title="Fourth Fragment"/>
 
         <item android:id="@+id/fifth"
-            android:title="Fifth Fragment"/>
+            android:title="Search code"/>
 
     </group>
 

@@ -29,6 +29,6 @@
     <fragment
         android:id="@+id/fifthFragment"
         android:name="com.example.finalexam.FifthFragment"
-        android:label="fragment_fifth"
+        android:label="Search Code"
         tools:layout="@layout/fragment_fifth" />
 </navigation>

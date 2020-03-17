@@ -16,4 +16,9 @@ public interface DataServices {
 
     @GET("search/issues?q=windows+label:bug+language:HTML+state:open&sort=&order=asc")
     Call<issues> getAllIssues();
+
+
+
+    @GET("search/code?q=Pokemon+in:file+language:java+repo:tagorekommineni9/JetPackFragments")
+    Call<coderepos> getAllMatchedCodeDetails();
 }
