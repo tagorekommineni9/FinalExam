@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/first"
+            android:title="Montreal Java Developers"/>
+
+        <item android:id="@+id/second"
+            android:title="Second Fragment"/>
+
+        <item android:id="@+id/third"
+            android:title="Issues in GIT repositories"/>
+
+        <item android:id="@+id/fourth"
+            android:title="Fourth Fragment"/>
+
+        <item android:id="@+id/fifth"
+            android:title="Fifth Fragment"/>
+
+    </group>
+
+</menu>
