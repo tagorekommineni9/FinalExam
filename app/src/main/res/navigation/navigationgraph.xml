@@ -14,7 +14,7 @@
     <fragment
         android:id="@+id/secondFragment"
         android:name="com.example.finalexam.SecondFragment"
-        android:label="fragment_second"
+        android:label="Reposistories of User"
         tools:layout="@layout/fragment_second" />
     <fragment
         android:id="@+id/thirdFragment"

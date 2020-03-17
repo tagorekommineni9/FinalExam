@@ -7,7 +7,7 @@
             android:title="Montreal Java Developers"/>
 
         <item android:id="@+id/second"
-            android:title="Second Fragment"/>
+            android:title="Repositories of User"/>
 
         <item android:id="@+id/third"
             android:title="Issues in GIT repositories"/>
