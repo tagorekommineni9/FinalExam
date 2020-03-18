@@ -13,7 +13,7 @@
             android:title="Issues in GIT repositories"/>
 
         <item android:id="@+id/fourth"
-            android:title="Fourth Fragment"/>
+            android:title="User details by name"/>
 
         <item android:id="@+id/fifth"
             android:title="Search code"/>
